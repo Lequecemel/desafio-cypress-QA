@@ -2,19 +2,19 @@
 
 Este projeto contém testes automatizados utilizando o Cypress para simular funcionalidades de um e-commerce.
 
-## 🔧 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - [Cypress](https://www.cypress.io/)
 - Node.js
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 - `cypress/`: Pasta onde ficam os testes.
 - `cypress/e2e/`: Contém os testes automatizados.
 - `cypress.config.js`: Configurações do Cypress.
 - `package.json`: Dependências do projeto.
 
-## 🚀 Como instalar e executar os testes
+##  Como instalar e executar os testes
 
 1. Clone este repositório:
 
